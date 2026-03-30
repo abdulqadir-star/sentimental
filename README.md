@@ -1,3 +1,3 @@
-# Emial-spam-CLassifier
+##Sentimental app
 
-https://safeinbox.streamlit.app/
+https://sentimental-file.streamlit.app/
